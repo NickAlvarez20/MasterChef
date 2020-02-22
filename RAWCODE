@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        body {
+            background-color:rgb(255, 255, 255);
+        }
+        
+        h1 {
+            color: rgb(0, 15, 110);
+        }
+        
+        h2 {
+            color: rgb(0, 4, 117);
+        }
+        p {
+            color: rgb(0, 0, 0);
+        }
+        li {
+            color: rgb(0, 0, 0);
+        }
+        th {
+            color: rgb(0, 200, 255);
+        }
+        td {
+            color: rgb(0, 0, 0);
+        }
+        </style>
+    </head>
+
+    <body>
+       
+        <h1>Master Chef's Recipe Book</h1>
+    
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#garlic">Garlic Bread from Google Rated Five Stars</a></li>
+            <li><a href="#lasagna">Lasagna from Google Rated Five Stars</a></li>
+            <li><a href="#chicken-strips">Buffalo Chicken Tenders from Google Rated Five Stars</a></li>
+        </ol>
+        
+        <h2 id="garlic">Garlic Bread</h2>
+        
+        <ul>
+            <li>Time: 0 Hours 20 Minutes</li>
+            <li>Serves: 6 Servings</li>
+            <li>Prep Time: 10 Minutes</li>
+            <li>Cook Time: 10 Minutes</li>
+            <li>Temperature: 425 Degrees Farenheit</li>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Garlic_Breads.JPG" alt="Piece of Garlic Bread" width="399">
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                       <tbody>
+                <td>Cloves, Garlic(minced)</td>
+                <td>4</td>
+            </tbody>
+            <tbody>
+                <td>Butter, stick(softened)</td>
+                <td>1</td>
+            </tbody>
+            <tbody>
+                <td>Baguette or French Bread(cut-length wise)</td>
+                <td>1</td>
+            </tbody>
+            <tbody>
+                <td>Kosher Salt</td>
+                <td>1 /2 tsp.</td>
+            </tbody>
+            <tbody>
+                <td>Freshly Chopped Parsley</td>
+                <td>2 tbsp.</td>
+            </tbody>
+            <tbody>
+                <td>Parmesan Cheese (or altenative)</td>
+                <td>1 /4 c. grated</td>
+            </tbody>
+            </thead>
+        </table>
+        
+        <p><strong>Step 1:</strong> Preheat oven to 425° and line a large baking sheet with foil. Make garlic compound butter: In a small bowl, mix softened butter with garlic, salt, and parsley until well combined.
+</p>
+     <p><strong>Step 2:</strong> Spread cut sides of bread liberally with garlic butter. Sprinkle with Parmesan.
+</p>
+    <p><strong>Step 3:</strong> Bake until bread is toasty and golden at the edges, about 10 minutes.
+</p>
+        
+    <p><em>Source: <a href="https://www.delish.com/cooking/recipe-ideas/a24803098/easy-garlic-bread-recipe/">Delish.com</a></em></p>
+    <p>
+    <a href="#garlic">Garlic-Bread(back-to-top)</a>
+     <a href="#chicken-strips">Chicken-Strips</a>
+    </p>
+    
+     <h2 id="lasagna">Lasagna</h2>
+        
+        <ul>
+            <li>Time: 3 Hours 15 Minutes</li>
+            <li>Serves: 12 Servings</li>
+            <li>Prep Time: 30 Minutes</li>
+            <li>Cook Time: 2 Hours 30 Minutes</li>
+            <li>Temperature: 375 Degrees Farenheit</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Beef_lasagna_at_Cafe_Stax%2C_July_2009.jpg" alt="Gourmet Lasagna Picture" width="399">
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>Sweet Italian Sausage</td>
+                <td>1 lb.</td>
+            </tbody>
+            <tbody>
+                <td>Fennel seeds</td>
+                <td>1/2 teaspoon</td>
+            </tbody>
+            <tbody>
+                <td>lean ground beef</td>
+                <td>3/4 pound</td>
+            </tbody>
+            <tbody>
+                <td>Italian Seasoning</td>
+                <td>1 teaspoon</td>
+            </tbody>
+            <tbody>
+                <td>minced onion</td>
+                <td>1/2 cup</td>
+            </tbody>
+            <tbody>
+                <td>Salt</td>
+                <td>1 1/2 teaspoons</td>
+            </tbody>
+            <tbody>
+                <td>Garlic(crushed)</td>
+                <td>2 cloves</td>
+            </tbody>
+            <tbody>
+                <td>Ground Black Pepper</td>
+                <td>1/4 teaspoon</td>
+            </tbody>
+            <tbody>
+                <td>chopped fresh parsley</td>
+                <td>4 tablspoons</td>
+            </tbody>
+            <tbody>
+                <td>lasagna noodles</td>
+                <td>12</td>
+            </tbody>
+            <tbody>
+                <td>ricotta cheese</td>
+                <td>16 ounces</td>
+            </tbody>
+            <tbody>
+                <td>Crushed Tomatoes(Can)</td>
+                <td>1</td>
+            </tbody>
+             <tbody>
+                <td>Tomato Paste</td>
+                <td>2 (6 ounce) cans</td>
+            </tbody>
+            <tbody>
+                <td>Egg</td>
+                <td>1</td>
+            </tbody>
+            <tbody>
+                <td>Mozzarella cheese(sliced)</td>
+                <td>3/4 pound</td>
+            </tbody>
+            <tbody>
+                <td>Parmesan Cheese(grated)</td>
+                <td>3/4 cup</td>
+            </tbody>
+            <tbody>
+                <td>water</td>
+                <td>1/2 cup</td>
+            </tbody>
+            <tbody>
+                <td>White sugar</td>
+                <td>2 tablespoons</td>
+            </tbody>
+            <tbody>
+                <td>Dried basil leaves</td>
+                <td>1 1/2 teaspoons</td>
+                </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 teaspoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally. 
+</p>
+     <p><strong>Step 2:</strong> Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt. 
+</p>
+    <p><strong>Step 3:</strong> Preheat oven to 375 degrees F (190 degrees C). 
+</p>
+<p><strong>Step 4:</strong> To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese. 
+</p>
+     <p><strong>Step 5:</strong> Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving. 
+</p>
+        
+    <p><em>Source: <a href="https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/">Allrecipes.com</a></em></p>
+    <p>
+    <a href="#garlic">Garlic-Bread</a>
+    <a href="#lasagna">Lasagna(back-to-top)</a>
+    </p>
+    
+        <h2 id="chicken-strips">Breaded Chicken Strips</h2>
+        
+        <ul>
+            <li>Time: 0 Hours 55 Minutes</li>
+            <li>Serves: 4 Servings</li>
+            <li>Prep Time: 25 Minutes</li>
+            <li>Cook Time: 0 Hours 30 Minutes</li>
+            <li>Temperature: 350 Degrees Farenheit</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fried-Chicken-Leg.jpg" width="399">
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>White Bread</td>
+                <td>8 Slices</td>
+            </tbody>
+            <tbody>
+                <td>Grated Parmesan</td>
+                <td>3 tablespoons</td>
+            </tbody>
+            <tbody>
+                <td>minced fresh parsley leaves</td>
+                <td>2 tablespoons</td>
+            </tbody>
+            <tbody>
+                <td>kosher salt</td>
+                <td>3/4 teaspoon</td>
+            </tbody>
+            <tbody>
+                <td>Fresh ground black pepper</td>
+                <td>As Necessary</td>
+            </tbody>
+            <tbody>
+                <td>All-purpose flour, for dredging</td>
+                <td>1 cup</td>
+            </tbody>
+            <tbody>
+                <td>Large eggs, beaten</td>
+                <td>2</td>
+            </tbody>
+            <tbody>
+                <td>Bonesless skinless chicken breast(each about 8 ounces)</td>
+                <td>3</td>
+            </tbody>
+            <tbody>
+                <td>Vegetable Oil,for shallow frying</td>
+                <td>Enough for frying</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Preheat the oven to 350 degrees F.  
+</p>
+     <p><strong>Step 2:</strong> To make bread crumbs: Tear the bread into pieces. Spread bread out on a microwave-safe plate, and microwave on HIGH for 1 minute to dry out the bread. (Alternately, spread the bread out on a baking sheet and dry in a 350 degree F oven for 12 minutes.) Let cool and pulse the dried bread in a food processor with the Parmesan, parsley, 3/4 teaspoon salt, and pepper.  
+</p>
+    <p><strong>Step 3:</strong> Put the flour, eggs, and bread crumb mixture in 3 separate shallow dishes.  
+</p>
+<p><strong>Step 4:</strong> With the flat side of a cooks' knife or the smooth side of a meat-pounder, pound each breast to equal thickness between 2 sheets of plastic wrap. Cut into 1 1/2-inch strips pat the chicken dry and season both sides with salt and pepper. Dip each strip into the flour, then shake off the excess. Next, run the strips through the egg to coat it lightly and hold the chicken over the liquid to let any excess fall back into the bowl. Finally, lay the strips in the bread crumbs, turn it over and press it into the breading to evenly coat. Lay on a piece of waxedpaper. 
+</p>
+     <p><strong>Step 5:</strong> Heat 1/4-inch of oil in a large skillet over medium heat until hot and shimmering. Lay 2 or 3 chicken strips at a time in the pan. Cook the chicken without turning until golden brown, about 2 minutes. Turn the chicken and cook until equally brown on the other side and the chicken is cooked through, about 2 to 3 minutes more. Repeat with the remaining 2 breasts. Transfer chicken to a paper towel-lined plate to drain. Serve. 
+</p>
+        
+    <p><em>Source: <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/breaded-chicken-strips-recipe-1953635"
+>Foodnetwork.com</a></em></p>
+
+<p>
+    <a href="#garlic">Garlic-Bread</a>
+    <a href="#lasagna">Lasagna</a>
+    <a href="#chicken-strips">Chicken-Strips(back-to-top)</a>
+    </p>
+    
+    </body>
+</html>
